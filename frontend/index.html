@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>PYR - Juego</title>
+    <!-- Fuente moderna -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="app">
+      <header>
+        <div class="brand">
+          <svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden>
+            <defs>
+              <linearGradient id="g1" x1="0" x2="1">
+                <stop offset="0" stop-color="#7af7d1" />
+                <stop offset="1" stop-color="#06b6d4" />
+              </linearGradient>
+            </defs>
+            <rect width="24" height="24" rx="6" fill="url(#g1)" />
+            <path d="M7 14l3-3 4 4 5-7" stroke="#042028" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+          </svg>
+          <div>
+            <h1>PYR Expo</h1>
+            <small class="subtitle">Preguntas y sorteos — Versión demo</small>
+          </div>
+        </div>
+      </header>
+
+      <main>
+        <div id="mobile-screen" class="screen">
+          <div class="card">
+            <h2>Versión celular</h2>
+            <button id="play-btn" class="primary">Jugar</button>
+
+            <div id="question-area" class="hidden">
+              <p id="q-text"></p>
+              <div id="options"></div>
+              <div id="result" class="hidden"></div>
+              <div id="name-form" class="hidden">
+                <input id="firstName" placeholder="Nombre" />
+                <input id="lastName" placeholder="Apellido" />
+                <button id="submit-name" class="primary">Participar</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div id="pc-screen" class="screen">
+          <div class="card">
+            <h2>Versión PC</h2>
+            <div>
+              <button id="refresh-winners" class="secondary">Refrescar ganadores</button>
+              <button id="raffle-btn" class="primary">Sortear</button>
+            </div>
+            <ul id="winners-list"></ul>
+            <div id="raffle-result"></div>
+          </div>
+        </div>
+      </main>
+
+      <footer>
+        <small>Diseño moderno y elegante — Demo</small>
+      </footer>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
