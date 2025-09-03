@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:3000'; // Cambiar a la URL de Render cuando se despliegue
+const API_BASE = 'https://expocarreras.onrender.com'; // Cambiar a la URL de Render cuando se despliegue
 
 document.addEventListener('DOMContentLoaded', () => {
   if (window.innerWidth < 768) {
@@ -101,3 +101,4 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 });
+
