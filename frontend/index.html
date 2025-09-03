@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Educativo</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="mobile-view">
+    <h1>Quiz Educativo Expocarreras 2025</h1>
+    <div id="already-played" style="display: none;"></div>
+    <button id="play-btn">Jugar</button>
+    <div id="question-container" style="display: none;">
+      <p id="question"></p>
+      <div id="options"></div>
+      <div id="result" style="display: none;"></div>
+      <div id="save-form" style="display: none;">
+        <input type="text" id="name" placeholder="Nombre">
+        <input type="text" id="surname" placeholder="Apellido">
+        <button id="save-btn">Guardar</button>
+      </div>
+      <div id="success-message" style="display: none;"></div>
+    </div>
+  </div>
+  <div id="desktop-view">
+    <h1>Ganadores</h1>
+    <ul id="winners-list"></ul>
+    <button id="raffle-btn">Realizar Sorteo</button>
+    <div id="raffle-result" style="display: none;"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
