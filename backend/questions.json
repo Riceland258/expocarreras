@@ -1,0 +1,673 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué clase de palabra es “su” en la oración “La abuela perdió su libro.”?",
+    "options": [
+      "Pronombre demostrativo",
+      "Adverbio de lugar",
+      "Adjetivo posesivo",
+      "Conjunción copulativa"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 2,
+    "question": "De 24 alumnos cinco sextos son diestros. ¿Cuántos alumnos son zurdos?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 3,
+    "question": "¿De qué color es el pelaje de los perros dálmatas cuando nacen?",
+    "options": [
+      "Con manchas negras",
+      "Enteramente blanco",
+      "Con manchas marrones",
+      "Enteramente gris"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 4,
+    "question": "Entre 1942 y 1944, ¿qué niña escribió un diario íntimo que se volvió famoso?",
+    "options": [
+      "Helen Keller",
+      "Ana Frank",
+      "Margot Frank",
+      "Ana María Matute"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 5,
+    "question": "¿A qué le tiene miedo una persona que sufre de aracnofobia?",
+    "options": [
+      "A los insectos",
+      "A los pájaros",
+      "A las arañas",
+      "A los reptiles"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 6,
+    "question": "El primer vegetal comestible cultivado en el espacio fue una papa.",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "Parcialmente verdadero",
+      "Depende de la misión"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 7,
+    "question": "¿Cuál es el bosque tropical más extenso del mundo?",
+    "options": [
+      "El Congo",
+      "La Amazonia",
+      "El Bosque de Borneo",
+      "El Daintree"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 8,
+    "question": "¿De qué idioma proviene la palabra “felicidad”?",
+    "options": [
+      "Griego",
+      "Latín",
+      "Germánico",
+      "Sánscrito"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 9,
+    "question": "¿Cuál es la función sintáctica de “El lunes” en la oración “El lunes iremos al cine.”?",
+    "options": [
+      "Sujeto",
+      "Predicado",
+      "Complemento circunstancial de tiempo",
+      "Complemento directo"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 10,
+    "question": "Calculá: 1000 – 9,01",
+    "options": [
+      "989,09",
+      "991,99",
+      "990,98",
+      "990,99"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 11,
+    "question": "¿En qué órgano del cuerpo humano hay un martillo, un yunque y un estribo?",
+    "options": [
+      "El ojo",
+      "El oído",
+      "La nariz",
+      "La garganta"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 12,
+    "question": "¿Qué artista pintó los famosos murales del Palacio Nacional en la Ciudad de México?",
+    "options": [
+      "Frida Kahlo",
+      "José Clemente Orozco",
+      "Diego Rivera",
+      "David Alfaro Siqueiros"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 13,
+    "question": "¿Qué sinónimos de “enfado” también comienzan con “en”?",
+    "options": [
+      "Enfurruñamiento y enojo",
+      "Enfado y enojo",
+      "Enfado y encierramiento",
+      "Enojo y enfurecimiento"
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 14,
+    "question": "Si c es la medida del lado de un cuadrado, ¿qué expresión define su área?",
+    "options": [
+      "2c",
+      "c²",
+      "c³",
+      "2c²"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 15,
+    "question": "¿Qué sistema de transporte es el más ecológico de la Ciudad Autónoma de Buenos Aires?",
+    "options": [
+      "El subte",
+      "El colectivo",
+      "La red de ciclovías",
+      "El tren"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 16,
+    "question": "¿En qué país europeo se puede visitar el Templo Expiatorio de la Sagrada Familia?",
+    "options": [
+      "Italia",
+      "Francia",
+      "España",
+      "Portugal"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 17,
+    "question": "¿En qué modo está el verbo en la oración “Ojalá mañana esté lindo.”?",
+    "options": [
+      "Indicativo",
+      "Imperativo",
+      "Subjuntivo",
+      "Infinitivo"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 18,
+    "question": "¿Cómo se puede saber rápidamente si un número entero es divisible por 5?",
+    "options": [
+      "Si la suma de sus dígitos es múltiplo de 5",
+      "Si termina en 0 o en 5",
+      "Si es par",
+      "Si su raíz cuadrada es exacta"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 19,
+    "question": "¿Hay atmósfera en otros planetas además de la Tierra?",
+    "options": [
+      "No",
+      "Sí, pero siempre igual a la terrestre",
+      "Sí, con composición variable",
+      "Sólo en planetas rocosos"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 20,
+    "question": "De las 6 categorías de gimnasia artística masculina, ¿cuál se considera la más difícil?",
+    "options": [
+      "Paralelas",
+      "Anillas",
+      "Caballo con arcos",
+      "Barra fija"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 21,
+    "question": "¿Qué designa el adjetivo “fastuoso”?",
+    "options": [
+      "Sencillo",
+      "Lujoso",
+      "Modesto",
+      "Rústico"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 22,
+    "question": "¿Qué dispositivo permite imprimir objetos corpóreos diseñados en computadora?",
+    "options": [
+      "Cortadora láser",
+      "Máquina CNC",
+      "Impresora 3D",
+      "Escáner 3D"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 23,
+    "question": "¿Los asentamientos que tienen menos de 2000 habitantes son urbanos o rurales?",
+    "options": [
+      "Urbanos",
+      "Rurales",
+      "Suburbanos",
+      "Metropolitanos"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 24,
+    "question": "¿Cuál es la lengua oficial de China?",
+    "options": [
+      "Cantonés",
+      "Chino mandarín",
+      "Inglés",
+      "Tibetano"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 25,
+    "question": "En el cuento de Horacio Quiroga, el almohadón es…",
+    "options": [
+      "de papel",
+      "de plumas",
+      "de lana",
+      "de tela metálica"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 26,
+    "question": "Las cartas enojadas en Harry Potter son…",
+    "options": [
+      "Dictámenes",
+      "Mandrágoras",
+      "Vociferadoras",
+      "Pergaminos encantados"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 27,
+    "question": "Moby Dick, en la novela de Melville, es…",
+    "options": [
+      "una loba",
+      "una mona",
+      "una ballena",
+      "un barco"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 28,
+    "question": "El autor de El señor de los anillos es…",
+    "options": [
+      "John Roger Ronald Tolkien",
+      "John Ronald Reuel Tolkien",
+      "Jan Roger Rabbit Tolkien",
+      "John Ronald Tolkien"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 29,
+    "question": "Pasá a pretérito pluscuamperfecto: “Armstrong camina sobre la luna.”",
+    "options": [
+      "Armstrong había caminado sobre la luna.",
+      "Armstrong había caminado sobre la luna.",
+      "Armstrong había caminado en la luna.",
+      "Armstrong ha caminado sobre la luna."
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 30,
+    "question": "Si lo multiplico por 0,5 y luego divido el resultado por 2, me da 52,25. ¿Qué número es?",
+    "options": [
+      "209",
+      "210",
+      "208",
+      "215"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 31,
+    "question": "¿Los cultivos son ecosistemas naturales o artificiales?",
+    "options": [
+      "Naturales",
+      "Artificiales",
+      "Semnaturales",
+      "Antrópicos"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 32,
+    "question": "¿Qué escritor británico creó el famoso personaje del detective inglés Sherlock Holmes?",
+    "options": [
+      "Víctor Hugo",
+      "Arthur Conan Doyle",
+      "Agatha Christie",
+      "Charles Dickens"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 33,
+    "question": "¿La palabra “fruta” es un hiperónimo de “planta” o de “durazno”?",
+    "options": [
+      "De planta",
+      "De durazno",
+      "De semilla",
+      "De hortaliza"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 34,
+    "question": "¿Cómo son los ángulos interiores de un triángulo equilátero?",
+    "options": [
+      "Uno de 90° y dos de 45°",
+      "Dos de 60° y uno de 120°",
+      "Tres de 60°",
+      "Dos de 30° y uno de 120°"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 35,
+    "question": "¿En qué cadena montañosa se encuentra el lago Titicaca?",
+    "options": [
+      "Alpes",
+      "Himalaya",
+      "Andes",
+      "Rocosas"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 36,
+    "question": "¿Cómo se dice “te amo” en italiano?",
+    "options": [
+      "Ti voglio",
+      "Ti amo",
+      "Ti adoro",
+      "Ti voglio bene"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 37,
+    "question": "¿Qué clase de palabra es “pero” en la oración “Refunfuña pero lo hace igual.”?",
+    "options": [
+      "Conjunción adversativa",
+      "Conjunción copulativa",
+      "Conjunción disyuntiva",
+      "Adverbio"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 38,
+    "question": "Indicá cuáles de estas fracciones son equivalentes: 5/6, 25/12, 15/18, 12/25, 18/15, 50/60",
+    "options": [
+      "5/6, 25/12, 50/60",
+      "15/18, 18/15, 50/60",
+      "5/6, 15/18, 50/60",
+      "25/12, 12/25, 18/15"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 39,
+    "question": "¿Qué se almacena en las jorobas de los camellos?",
+    "options": [
+      "Agua",
+      "Grasa",
+      "Alimentos",
+      "Arena"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 40,
+    "question": "¿En qué ciudad vive la familia Simpson?",
+    "options": [
+      "Quahog",
+      "South Park",
+      "Springfield",
+      "Bedrock"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 41,
+    "question": "Encontrá un sinónimo de “nutrirse” que empiece con “c”.",
+    "options": [
+      "Comer",
+      "Correr",
+      "Cocinar",
+      "Crecer"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 42,
+    "question": "Un motor con 5 l de aceite pierde 30 cl cada 1000 km. ¿Cuánto aceite le queda luego de 5000 km?",
+    "options": [
+      "4,5 l",
+      "3,5 l",
+      "3,0 l",
+      "2,5 l"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 43,
+    "question": "¿Cuál es el grado de latitud del ecuador?",
+    "options": [
+      "90°",
+      "45°",
+      "0°",
+      "180°"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 44,
+    "question": "¿De qué idioma proviene la palabra “zen”?",
+    "options": [
+      "Chino",
+      "Japonés",
+      "Sánscrito",
+      "Coreano"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 45,
+    "question": "Completá la oración con “te” o “té”: “Tomó un __ con miel.”",
+    "options": [
+      "te",
+      "té",
+      "té?",
+      "te?"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 46,
+    "question": "Si un auto cuesta $70 000, ¿conviene un descuento del 10 % o una rebaja de $8000?",
+    "options": [
+      "Descuento del 10 %",
+      "Rebaja de $7000",
+      "Rebaja de $8000",
+      "Descuento del 15 %"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 47,
+    "question": "¿Cuál de estos materiales es un buen conductor de calor?",
+    "options": [
+      "Madera",
+      "Metal",
+      "Plástico",
+      "Vidrio"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 48,
+    "question": "¿Cuál es el deporte que se juega en equipos con un disco volador?",
+    "options": [
+      "Ultimate frisbee",
+      "Disc golf",
+      "Hockey sobre hielo",
+      "Lacrosse"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 49,
+    "question": "¿Qué significa el verbo “migrar”?",
+    "options": [
+      "Explorar un lugar nuevo",
+      "Trasladarse de un lugar a otro",
+      "Construir refugios",
+      "Conservar recursos"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 50,
+    "question": "¿Cuál es el máximo de caracteres que puede tener una publicación en Twitter?",
+    "options": [
+      "140",
+      "280",
+      "200",
+      "160"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 51,
+    "question": "¿Alrededor de cuántos habitantes había en el mundo en el año 2011?",
+    "options": [
+      "5000 millones",
+      "6000 millones",
+      "7000 millones",
+      "8000 millones"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 52,
+    "question": "En inglés, ¿cómo se le pregunta a alguien “¿Cómo estás?”?",
+    "options": [
+      "What’s up?",
+      "How do you do?",
+      "How are you?",
+      "How is it going?"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 53,
+    "question": "Teo niega haber visto alguna vez el libro que le muestran. Al día siguiente, afirma lo contrario. ¿Está mintiendo?",
+    "options": [
+      "Sí, miente siempre",
+      "No, ya lo vio antes",
+      "Sí, porque no lo vio nunca",
+      "No, porque no recordaba"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 54,
+    "question": "¿Cuánto es la mitad de un cuarto de un medio de 800?",
+    "options": [
+      "50",
+      "100",
+      "25",
+      "75"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 55,
+    "question": "Pedro pasea bajo la lluvia sin paraguas ni sombrero. Sin embargo, su cabello no se moja. ¿Por qué?",
+    "options": [
+      "Usó impermeable",
+      "Porque es alto",
+      "Porque es pelado",
+      "Porque vive en el desierto"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 56,
+    "question": "Completá la serie: 1 – 1 – 2 – 3 – 5 – 8 – 13 – __.",
+    "options": [
+      "18",
+      "20",
+      "21",
+      "22"
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 57,
+    "question": "La primera en utilizar un inodoro fue una reina.",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "No se sabe",
+      "Parcialmente verdadero"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 58,
+    "question": "Al principio, la rueda no se usaba para el transporte.",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "Parcialmente falso",
+      "No aplica"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 59,
+    "question": "El médico argentino René Favaloro creó una técnica de cirugía de ojos.",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "Parcialmente verdadero",
+      "No es médico"
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 60,
+    "question": "Los inventos se registran en patentes.",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "Parcialmente verdadero",
+      "Depende del invento"
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 61,
+    "question": "En China ya no se utiliza el ábaco para hacer cuentas.",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "Solo se usa en escuelas",
+      "Solo en zonas rurales"
+    ],
+    "correct": "B"
+  }
+]
